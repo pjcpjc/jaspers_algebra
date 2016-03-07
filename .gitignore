@@ -1,0 +1,6 @@
+*.pyc
+gurobi.log
+.idea/*
+.idea
+*.pyo
+*.ipynb_checkpoints
